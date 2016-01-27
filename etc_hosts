@@ -1,0 +1,8 @@
+127.0.0.1	localhost debian0 debian1 debian2 debian3 debian4 debian5 debian6 debian7 debian8 debian9 centos0 centos1  centos2  centos3  centos4  centos5  centos6  centos7  centos8  centos9
+127.0.1.1	debian8.iutbeziers.fr	debian8
+10.255.255.135  registry.iutbeziers.fr
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
